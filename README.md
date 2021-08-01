@@ -9,4 +9,4 @@ A simple maze game developed using Java JFrame.
 javac Main.java #compile
 java Main  #run
 ```
-![alt text](https://github.com/syedoq/java_snake/blob/main/image.png?raw=true)
+![alt text](https://github.com/syedoq/maze_game/blob/master/Capture.PNG?raw=true)
